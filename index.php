@@ -29,3 +29,7 @@ document.getElementById('rzp-button1').onclick = function(e){
     e.preventDefault();
 }
 </script>
+
+/*
+manish
+*/
